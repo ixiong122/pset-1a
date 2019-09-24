@@ -1,12 +1,23 @@
 .header h3 {
   padding:10px
 }
-a:header {
-  background-color: #206DE5;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
+a:link {
+
+  color: black;
+}
+a:visited {
+  color: black;
 }
 p{
   font-size: 26px;
+}
+
+div#fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:2px;
 }

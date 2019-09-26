@@ -1,10 +1,9 @@
 div#fixedfooter {
-  position: fixed;
-  color: #f2f2f2;
-  background color: #0f7029;
-  left: 0;
-  bottom:0;
-  width: 100%;
-  text-align: center;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#10781d;
 
 }

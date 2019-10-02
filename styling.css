@@ -9,6 +9,42 @@ div#fixedfooter {
 	left:0px;
 	width:100%;
 	color:#CCC;
-	background:#10781d;
+	background:#10781d
 
+}
+.centering {
+	text-align:left;
+}
+table {
+	border: 1px solid black;
+}
+td{
+	border:1px solid black;
+	padding: 10px;
+}
+h1{
+	font-size:48px;
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+* {
+	margin:5px;
+	padding:2px;
+}
+.image{
+	text-align:center;
+}
+.slogan{
+	font-size:24px;
+}
+a{
+	color:blue;
+}
+a:hover{
+	color:black;
+}
+a:visited{
+	color:blue;
 }

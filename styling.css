@@ -74,3 +74,6 @@ h3{
 .slogan{
 	font-size:24px;
 }
+div h2{
+	border: 2px solid black;
+}

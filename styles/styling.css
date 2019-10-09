@@ -42,22 +42,18 @@ div#fixedfooter {
 	color:#CCC;
 	background:#10781d
 }
-.picture{
-	text-align:center;
-  height: 500px;
-	width: 700px;
-}
+
 #popular_dog_list{
 	float:right;
 }
 #popular_cat_list{
-	text-align:left;
+	text-align:le ft;
 }
 .centering {
 	text-align:left;
 }
 div table {
-	border: 1px solid black;
+	border : 1px solid black;
 	text-align: left;
 }
 td{
@@ -71,7 +67,12 @@ h1{
 h3{
 	text-align:center;
 }
-
+.picture{
+	display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
 .image{
 	text-align:center;
 }
@@ -83,9 +84,10 @@ h3{
 	width: 600px;
 }
 .dogimage{
-	height:400px;
-	width:800px;
-	text-align: center;
+	display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 65%;
 }
 a[href="https://www.ucvts.tec.nj.us/"] {
 	color:gray;
